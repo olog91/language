@@ -1,0 +1,247 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Gilroy, sans-sherif;
+    font-weight: 400;
+    color: #171E30;
+}
+
+a {
+    text-decoration: none;
+    color: #171E30;
+}
+
+h2 {
+    font-weight: 700;
+    text-align: center;
+}
+
+h3 {
+    color: #00B4FF;
+font-weight: 600;
+font-size: 30px;
+
+}
+
+h4 {
+    background: url('../img/icons/point.svg') no-repeat center;
+    height: 95px;
+    text-align: center;
+    padding-top: 20px;
+    align-items: center;
+    margin: 0;
+    background-position: center;
+font-weight: 700;
+font-size: 40px;
+}
+
+h4:hover {
+    background: url('../img/icons/point-blue.svg') no-repeat center;
+    color: #FFFFFF;
+    
+}
+
+.steap__number {
+}
+
+.container {
+    max-width: 1140px;
+    min-width: 320px;
+    margin: 0 auto;
+}
+
+.btn {
+border-radius: 40px;
+background-color: #F5D62E;
+color: #171E30;
+font-weight: 700;
+box-shadow: 0 5px #666;
+}
+
+
+
+.blue-text {
+    color: #00B4FF;
+}
+
+.btn-big {
+    margin-bottom: 130px;
+    width: 420px;
+    padding: 22px 32px;
+    font-size: 18px;
+}
+
+.navbar-nav {
+    align-items: center;
+}
+
+.nav-item {
+    justify-content: center;
+text-align: center;
+    color: #171E30;
+
+}
+
+.nav__menu {
+    margin-right: 26px;
+    padding: 0;
+}
+
+.nav-link {
+    color: #171E30;
+
+}
+
+.nav-link:hover {
+    color: #00ACED;
+    font-weight: 700;
+}
+
+.mail__color {
+    color: #00ACED;
+}
+
+.about-offer {
+    background: url('../img/girl-whith-laptop.png') no-repeat center;
+    background-size: cover;
+    color: #FFFFFF;
+}
+
+.about-offer__slog {
+    font-size: 60px;
+    margin-top: 100px;
+    text-transform: uppercase;
+
+}
+
+.about-offer__cheked {
+    margin-right: 20px;
+}
+
+.about-offer__cheked-text:hover {
+color: #eedc62;
+font-weight: 700;
+}
+
+.about-offer__cheked-text {
+    font-size: 28px;
+}
+
+.about-qotes {
+    margin-top: 45px;
+    margin-bottom: 100px;
+}
+
+.qotes__text {
+    font-style: italic;
+    font-size: 30px;
+    padding: 0 120px;
+    padding-right: 50px;
+    font-weight: 300;
+    background-position: right bottom;
+    background-image: url('../img/icons/quotes-down.svg'); 
+    background-repeat: no-repeat;
+}
+
+.qotes {
+    height: 50px;
+    position: absolute;
+    
+}
+
+.qotes__down {
+position: absolute;
+}
+
+/* ----------- why-we ---------- */
+
+.why-we {
+    background: url('../img/cloud-yellw-blue.svg') no-repeat center;
+
+}
+
+.why-we__slog {
+    margin-bottom: 53px;
+}
+
+.why-we__buttons {
+   text-align: center;
+
+}
+
+/* .why-we__our-students {
+    display: flex;
+justify-content: center;
+} */
+
+.why-we__button {
+border-radius: 20px;
+border: none;
+box-shadow: 0 8px 50px 5px rgba(0,0,0,0.2);
+background-color: white;
+margin-bottom: 20px;
+margin-right: 15px;
+font-family: Gilroy;
+height: 330px;
+width: 313px;
+}
+
+.why-we__button:hover {
+    transform: scale(1.1);
+}
+
+.specification {
+    font-weight: 300;
+    font-size: 16px;
+    padding: 0 50px;
+    font-style: italic;
+}
+
+/* steap */
+
+.steap {
+    background: url('../img/rout.svg') no-repeat center;
+}
+
+.steap__left-cloud {
+
+}
+
+.steap__cloud-little {
+height: 185px;
+position: absolute;
+
+}
+
+.steap__person {
+height: 485px;
+position: absolute;
+padding-bottom: 85px;
+}
+
+.steap__cloud-small {
+height: 93px;
+}
+
+.steap__cloud-big {
+height: 200px;
+}
+
+.steap__by-steap-consult {
+    display: flex;
+    margin-left: 200px;
+}
+
+.steap__by-steap-btn {
+    background-color: #FFFFFF;
+    width: 300px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    border: none;
+}
+
+.steap__by-steap-text-one {
+    margin-top: 50px;
+}
